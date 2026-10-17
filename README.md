@@ -48,7 +48,6 @@ Classification Report for Random Forest Classifier Testing Set
    macro avg       0.99      0.98      0.98     25000
 weighted avg       0.99      0.99      0.99     25000
 
-For any additional questions, 
-please contact 
+For any additional questions, reach out on [LinkedIn](https://www.linkedin.com/in/daniel-barella).
+
 **Daniel Barella**
-**hansolothe3rd@hotmail.com**
